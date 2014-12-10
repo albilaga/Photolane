@@ -1,0 +1,7 @@
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\bin\Debug\Photolane.Shared.dll
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\bin\Debug\Photolane.Shared.pdb
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\obj\Debug\Photolane.Shared.csprojResolveAssemblyReference.cache
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\obj\Debug\Photolane.Shared.dll
+E:\Dropbox\developer\mobile\xamarin\Photolane\Photolane.Shared\obj\Debug\Photolane.Shared.pdb

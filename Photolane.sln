@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photolane.Droid", "Photolane.Droid\Photolane.Droid.csproj", "{52D19F3F-A98A-486F-B481-63D0153F439E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photolane.Shared", "Photolane.Shared\Photolane.Shared.csproj", "{FEC0851C-80F0-4C93-AF14-D4A32B553E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D19F3F-A98A-486F-B481-63D0153F439E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FEC0851C-80F0-4C93-AF14-D4A32B553E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC0851C-80F0-4C93-AF14-D4A32B553E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC0851C-80F0-4C93-AF14-D4A32B553E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC0851C-80F0-4C93-AF14-D4A32B553E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_margin="20dp">
+    <ImageView
+        android:src="@drawable/addIcon"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:id="@+id/addFileImageButton"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center"
+        android:gravity="center" />
+    <EditText
+        android:id="@+id/captionEditText"
+        android:layout_marginTop="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="your caption here" />
+    <Button
+        android:text="SEND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendButton"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center" />
+</LinearLayout>
